@@ -1,0 +1,6 @@
+{
+  "name": "Travel Explorer",
+  "description": "A premium, fully responsive AI-powered travel guide platform for discovering destinations, creating personalized itineraries, and exploring hotels, restaurants, and adventure activities with advanced AI features.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
